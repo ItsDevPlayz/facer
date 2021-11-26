@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(#8798e9 0%,#e9d887 100%);
+    color: #040e3b;
+}
+
+
+p{
+font-size: larger;
+font-weight: bolder;
+}
+.heading{
+    width: 80%;
+    font-size:  22px; ;
+    font-weight: bolder;
+}
+
+.name_of_objects{
+
+    font-size: 20px;
+    color: white;
+}
+
+label{
+    background-color: white;
+    padding: 5px;
+}
+
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300;
+}
+
+
+
+
+
+
